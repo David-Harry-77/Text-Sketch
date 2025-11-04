@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+ftfy
+tensorboard
+Pillow
+opencv-python
+einops
+tqdm
+scipy
