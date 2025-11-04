@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model weights and artifacts
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+models/
+checkpoints/
+final_model/
+
+# Datasets
+datasets/
+data/
+*.zip
+
+# Logs
+*.log
+wandb/
+tensorboard/
+
+# Environment & system files
+.env
+*.DS_Store
